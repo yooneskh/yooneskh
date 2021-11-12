@@ -1,5 +1,12 @@
 # I am Yoones ^_^
-I am a curious dveloper who has found computer programming to be the best current tool for creation of new things. and i love to create, duh!
+I am a curious dveloper who has found computer programming to be the best tool for creation of new things.
+
+<a href="https://github.com/yooneskh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yooneskh&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/yooneskh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooneskh&hide=java&langs_count=6&layout=compact" />
+</a>
 
 # Contact me
 - [yooneskh@gmail.com](mailto:yooneskh@gmail.com)
