@@ -12,5 +12,3 @@ I am a curious dveloper who has found computer programming to be the best tool f
 - [yooneskh@gmail.com](mailto:yooneskh@gmail.com)
 
 Let's create the future together!
-
-![](https://komarev.com/ghpvc/?username=yooneskh)
