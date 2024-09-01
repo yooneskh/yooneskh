@@ -1,7 +1,7 @@
 # I am Yoones ^_^
-I am a curious dveloper who has found computer programming to be the best tool for creation of new things.
+A curious developer who thinks computer programming is the best tool for creation.
 
-<img onload="this.src='https://arepo.khoshghadam.com/api/b/JR9Iyjy0wDqKW_b_Rbs3J';" />
+<img src="https://arepo.khoshghadam.com/api/b/JR9Iyjy0wDqKW_b_Rbs3J" />
 
 <a href="https://github.com/yooneskh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yooneskh&show_icons=true&count_private=true" style="width: 450px; max-width: 100%;" />
