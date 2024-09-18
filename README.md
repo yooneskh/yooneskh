@@ -1,7 +1,7 @@
 # I am Yoones ^_^
 A curious developer who thinks computer programming is the best tool for creation.
 
-<img src="https://arepo.khoshghadam.com/api/b/6fm6tymKs_3-8pUyUny8l" />
+![Yoones Khoshghadam](https://arepo.khoshghadam.com/api/b/6fm6tymKs_3-8pUyUny8l)
 
 <a href="https://github.com/yooneskh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yooneskh&show_icons=true&count_private=true" style="width: 450px; max-width: 100%;" />
@@ -11,6 +11,6 @@ A curious developer who thinks computer programming is the best tool for creatio
 </a>
 
 # Contact me
-- [yooneskh@gmail.com](mailto:yooneskh@gmail.com)
+- [yoones.khoshghadam@gmail.com](mailto:yoones.khoshghadam@gmail.com)
 
 Let's create the future together!
